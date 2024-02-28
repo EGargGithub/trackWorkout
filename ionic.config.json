@@ -1,0 +1,7 @@
+{
+  "name": "trackWorkout",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
